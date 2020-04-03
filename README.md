@@ -1,5 +1,12 @@
 # puml-test
 
+## pulugin
+https://chrome.google.com/webstore/search/Pegmatite
+
+## usage
+official guide:
+https://plantuml.com/ja/sequence-diagram
+
 ```uml
 @startuml
 
